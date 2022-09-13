@@ -1,0 +1,2 @@
+this is the first line write from the file method
+this is the second line of the file added
